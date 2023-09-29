@@ -25,11 +25,11 @@ class HomePage extends StatelessWidget {
               margin: EdgeInsets.all(10),
               alignment: Alignment.center,
               width: 37,
-              child:
-                  Image.asset('assets/icons/login.png', height: 30, width: 30),
               decoration: BoxDecoration(
                   color: Color(0xffF7F8F8),
-                  borderRadius: BorderRadius.circular(10))),
+                  borderRadius: BorderRadius.circular(10),),
+              child:
+                  Image.asset('assets/icons/login.png', height: 30, width: 30),),
         ),
       ],
     );
