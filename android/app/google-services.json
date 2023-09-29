@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605351102825",
+    "project_id": "clubhub-ed76f",
+    "storage_bucket": "clubhub-ed76f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605351102825:android:0cd2f51b3d7000ae2c15f8",
+        "android_client_info": {
+          "package_name": "com.example.club_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5WACKXNMV_lkEm_jv2C7JN31D6Tj38GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
